@@ -1,0 +1,23 @@
+{
+    "name": "hubot-nextmuni",
+    "version": "0.0.1",
+    "description": "nextmuni script for hubot",
+    "author": "Chad Etzel <jazzychad@gmail.com>",
+    "dependencies": {
+        "xml2js": "0.4.4"
+    },
+    "main": "index.coffee",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jazzychad/hubot-nextmuni.git"
+    },
+    "keywords": [
+        "hubot",
+        "muni",
+        "nextmuni"
+    ],
+    "license": "MIT",
+    "engines": {
+        "node": "*"
+    }
+}
